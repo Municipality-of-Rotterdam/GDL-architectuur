@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is een specialisatie van"
+    id="id-180">
+  <source
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-164.xml#id-164"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-157.xml#id-157"/>
+</archimate:SpecializationRelationship>

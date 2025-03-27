@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-66">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-53.xml#id-53"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-45.xml#id-45"/>
+</archimate:ServingRelationship>

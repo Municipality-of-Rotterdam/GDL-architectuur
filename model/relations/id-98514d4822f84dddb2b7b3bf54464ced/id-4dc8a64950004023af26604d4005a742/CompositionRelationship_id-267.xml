@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="behoort tot"
+    id="id-267">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-249.xml#id-249"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-253.xml#id-253"/>
+</archimate:CompositionRelationship>
