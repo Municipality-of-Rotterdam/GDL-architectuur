@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP02- Pursuit Quality by Design"
+    id="id-1076bc64df614f1dabb22ac177f2a095"
+    documentation="The objective of this design principle is to offer guidelines and mechanisms and share best practices for producing high-quality data sets, services, and metadata that are easy to use, discover, and trust&#xD;&#xA;&#xD;&#xA;Core Concepts; Accuracy, Consistency, Completeness, Richness, Reliability.&#xD;&#xA;&#xD;&#xA;Best practices of quality include ensuring quality is a consideration from the design phase onward, using methodologies like DevOps [18] and DataOps [19] to maintain it throughout the data lifecycle, following established standards, and adjusting quality levels based on the particular requirements of each use case."/>

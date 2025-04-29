@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP11 - Ensure Participants Rights in Data Sovereignty"
+    id="id-2ac58e1910f44a0791f7caa43b2525d2"
+    documentation="The design principle outlined here focuses on two key aspects: data sovereignty for participants and the policies that govern data usage and access. The primary objective is to provide comprehensive guidelines and mechanisms that enable data space initiatives to design, develop, and operationalize processes, activities, and collaborations that uphold participants' rights regarding data sovereignty&#xD;&#xA;&#xD;&#xA;Core Concepts: Rights to access amd control data, informed consent mechanisms, data portability&#xD;&#xA;&#xD;&#xA;Best practicesfor developing a governance framework involve applying specific approaches, such as the data-sharing &quot;use case blueprint,&quot; theData Ecosystem Canvas, and templates for governance agreements"/>

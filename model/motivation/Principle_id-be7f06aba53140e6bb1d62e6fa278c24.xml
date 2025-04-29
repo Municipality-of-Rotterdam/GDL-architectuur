@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP01 - Reusabliilty of Data"
+    id="id-be7f06aba53140e6bb1d62e6fa278c24"
+    documentation="The reusability of data design principle underpins the value creation process, offering guidelines for data product owners, and shares best practices to ensure that their data serves new users and use cases beyond its initial purpose.&#xD;&#xA;&#xD;&#xA;Core Concepts: Integrity, Metadata, Modularity and Granularity&#xD;&#xA;&#xD;&#xA;Best Practices: Best practices of data reusability include using common data models, providing detailed descriptions and metadata, and offering data-related services such as data selection, integration, and processing to further support the efficient reuse of data across various applications."/>
