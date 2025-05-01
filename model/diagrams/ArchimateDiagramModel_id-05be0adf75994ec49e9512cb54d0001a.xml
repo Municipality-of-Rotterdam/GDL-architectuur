@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Europese Data spaces  Design principes"
-    id="id-05be0adf75994ec49e9512cb54d0001a">
+    id="id-05be0adf75994ec49e9512cb54d0001a"
+    documentation="Een overzicht van de Europese principes van het Open Dei programma en het Data Spaces Support Centre">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-c281dca61b144fb6acde1245ffabdd53"
