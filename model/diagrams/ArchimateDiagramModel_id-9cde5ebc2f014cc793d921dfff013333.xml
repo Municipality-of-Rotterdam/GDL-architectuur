@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FDS Capabilities"
+    id="id-9cde5ebc2f014cc793d921dfff013333">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4344f06b9f7f4b128728d88f17be8fe7">
+    <bounds
+        x="536"
+        y="279"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-41b1eec20cf345d0a1cd3cbbd52aa193.xml#id-41b1eec20cf345d0a1cd3cbbd52aa193"/>
+  </children>
+</archimate:ArchimateDiagramModel>
