@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FDS Standaarden"
+    id="id-1a84e41b57a34a7cb9555812f273c00a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bf813c2b123048b5ab8c1c18e853d31b">
+    <bounds
+        x="257"
+        y="341"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-b0a9471126e34c92af2a4cc2dc8b7d50.xml#id-b0a9471126e34c92af2a4cc2dc8b7d50"/>
+  </children>
+</archimate:ArchimateDiagramModel>
