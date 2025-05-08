@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FDS Principes"
     id="id-855550fc92ad41d2b7834b1e2118f8a4"
-    documentation="Een overzicht van de principes van het Federatief Datstelsel ">
+    documentation="Een overzicht van de principes van het Federatief Datstelsel "
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8ca5964ac2974e88a2e518adbe551027"

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open Digital Rights Languge (ODRL)"
     id="id-d328007507fb48b7a8533eac8ac3b175"
-    documentation="ODRL (Open Digital Rights Language) is a policy expression language developed by the World Wide Web Consortium (W3C) to provide a flexible and interoperable framework for representing statements about the usage of content and services. It allows for the specification of permissions, prohibitions, and obligations associated with digital assets, making it a crucial tool for managing digital rights and licenses."/>
+    documentation="ODRL (Open Digital Rights Language) is a policy expression language developed by the World Wide Web Consortium (W3C) to provide a flexible and interoperable framework for representing statements about the usage of content and services. It allows for the specification of permissions, prohibitions, and obligations associated with digital assets, making it a crucial tool for managing digital rights and licenses.">
+  <properties
+      key="Source"
+      value="https://www.w3.org/TR/odrl-model/"/>
+</archimate:Requirement>

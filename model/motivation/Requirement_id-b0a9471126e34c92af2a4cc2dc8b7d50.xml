@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DCAT"
     id="id-b0a9471126e34c92af2a4cc2dc8b7d50"
-    documentation="Standaard voor het beschrijven van datasets: Welke datasets (gegevensverzamelingen) zijn beschikbaar, welk licentietype, toegangsregime is daarop van toepassing, wie biedt de dataset aan? Welke dataservices worden bij een dataset aangeboden?"/>
+    documentation="Standaard voor het beschrijven van datasets: Welke datasets (gegevensverzamelingen) zijn beschikbaar, welk licentietype, toegangsregime is daarop van toepassing, wie biedt de dataset aan? Welke dataservices worden bij een dataset aangeboden?">
+  <properties
+      key="Source"
+      value="https://www.w3.org/TR/vocab-dcat-3/"/>
+</archimate:Requirement>
