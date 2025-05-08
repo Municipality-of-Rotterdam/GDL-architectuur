@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Europese Data spaces  Design principes"
     id="id-05be0adf75994ec49e9512cb54d0001a"
-    documentation="Een overzicht van de Europese principes van het Open Dei programma en het Data Spaces Support Centre">
+    documentation="Een overzicht van de Europese principes van het Open Dei programma en het Data Spaces Support Centre"
+    connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-c281dca61b144fb6acde1245ffabdd53"
@@ -19,6 +20,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2d2811075e544111a2bc6af400a4e347"
       targetConnections="id-60ec47c236e94995a228e0d80eefb491">
+    <features
+        name="labelExpression"
+        value="DP01 - Hergebruik van Data"/>
     <bounds
         x="219"
         y="156"
