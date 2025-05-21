@@ -32,6 +32,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8af8186113c34939ab848be0ef43bf67"
       targetConnections="id-67ecd166c24f452a9a0a22d02c6bc39c">
+    <features
+        name="labelExpression"
+        value="Use Case Ontwikkeling"/>
     <bounds
         x="216"
         y="408"
@@ -45,6 +48,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4831a630fff042fe8329ec3703703134"
       targetConnections="id-846aa5b0f9264e3e9a93ec0a7047530b">
+    <features
+        name="labelExpression"
+        value="Data Space Aanbod"/>
     <bounds
         x="36"
         y="420"
@@ -58,6 +64,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-85ccf508cb8343eca27144e4d0334a50"
       targetConnections="id-135b472ae3524f649108583f58346437">
+    <features
+        name="labelExpression"
+        value="Intermediairs &amp; Exploitanten"/>
     <bounds
         x="14"
         y="264"
@@ -71,10 +80,13 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-20dca43e192242c191ecbcf81cfca406"
       targetConnections="id-710475f11cc34da0811764e5422915ef">
+    <features
+        name="labelExpression"
+        value="Organisatievorm &amp; governance"/>
     <bounds
         x="516"
         y="408"
-        width="120"
+        width="132"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -84,6 +96,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b09cc75aa07747108bc43812d31437d1"
       targetConnections="id-81b51836e48c4507a45edc11a139d87b">
+    <features
+        name="labelExpression"
+        value="Deelname Management"/>
     <bounds
         x="672"
         y="408"
@@ -97,6 +112,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0052d7173d9f494784bb2fe1f403cc42"
       targetConnections="id-7dc802ab1c31427cafa6072cd249920e">
+    <features
+        name="labelExpression"
+        value="Naleving regelgeving"/>
     <bounds
         x="864"
         y="408"
@@ -110,6 +128,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8b67bd73c0634fa8b7b003845d757422"
       targetConnections="id-e7195eee8fbf4e088fbf82d70adedd5e">
+    <features
+        name="labelExpression"
+        value="Contracten Raamwerk"/>
     <bounds
         x="1140"
         y="252"
@@ -122,6 +143,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-966632b15cfb4114a4873d82583ac7fb">
+    <features
+        name="labelExpression"
+        value="Business en Organisatorisch"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ce783d34b34245de837ce7ca20e680cf"
@@ -242,6 +266,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3d3a94c5911d4254bdedaab8bbd3e3b6"
       targetConnections="id-e53f5a7ebeb54a75a9b9cc20fb38ef7f">
+    <features
+        name="labelExpression"
+        value="Juridisch"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7dc802ab1c31427cafa6072cd249920e"

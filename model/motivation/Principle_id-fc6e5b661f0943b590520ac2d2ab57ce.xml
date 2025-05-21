@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OD03 - Zachte Decentrale  infrastructuur"
     id="id-fc6e5b661f0943b590520ac2d2ab57ce"
-    documentation="De gegevensuitwisselingsinfrastructuur is geen monolithische gecentraliseerde IT-infrastructuur. In plaats daarvan is het de facto verzameling van interoperabele implementaties van data spaces die voldoen aan een uniforme reeks overeenkomsten in alle disciplines: functioneel, technisch, operationeel, juridisch en economisch. Een zachte infrastructuur omdat deze slechts onzichtbaar is en bestaat uit overeenkomsten. Uit het principe van  data soevereiniteit volgen functionele en niet-functionele vereisten voor interoperabiliteit, portabiliteit, vindbaarheid, beveiliging, privacy en betrouwbaarheid"/>
+    documentation="De gegevensuitwisselingsinfrastructuur is geen monolithische gecentraliseerde IT-infrastructuur. In plaats daarvan is het de facto verzameling van interoperabele implementaties van data spaces die voldoen aan een uniforme reeks overeenkomsten in alle disciplines: functioneel, technisch, operationeel, juridisch en economisch. Een zachte infrastructuur omdat deze slechts onzichtbaar is en bestaat uit overeenkomsten. Uit het principe van  data soevereiniteit volgen functionele en niet-functionele vereisten voor interoperabiliteit, portabiliteit, vindbaarheid, beveiliging, privacy en betrouwbaarheid">
+  <properties
+      key="Source"
+      value=" https://federatief.datastelsel.nl/kennisbank/principes/"/>
+</archimate:Principle>

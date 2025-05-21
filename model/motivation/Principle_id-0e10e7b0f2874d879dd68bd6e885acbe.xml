@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DP12 - Promote Participation Through Inclusivity"
     id="id-0e10e7b0f2874d879dd68bd6e885acbe"
-    documentation="The design principle of inclusive governance, fairness, and equality is crucial for data space initiatives. It aims to provide comprehensive guidelines and mechanisms to ensure equitable initial conditions and access to data and services based on specific policies, contracts, and consents.&#xD;&#xA;&#xD;&#xA;Core concepts: Accessible Participation mechanisms, inclusive governance mechanism, fairness and equality,&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Het ontwerpprincipe van inclusief bestuur, eerlijkheid en gelijkheid is cruciaal voor initiatieven op het gebied van dataruimte. Het beoogt uitgebreide richtlijnen en mechanismen te bieden om eerlijke beginvoorwaarden en toegang tot data en diensten te garanderen op basis van specifiek beleid, contracten en toestemmingen.&#xD;&#xA;&#xD;&#xA;Kernconcepten: Mechanismen voor toegankelijke participatie, mechanisme voor inclusief bestuur, eerlijkheid en gelijkheid.&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
+</archimate:Principle>
