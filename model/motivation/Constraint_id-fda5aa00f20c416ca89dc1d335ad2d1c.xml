@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NL GOV profile for CloudEvents"
+    id="id-fda5aa00f20c416ca89dc1d335ad2d1c"
+    documentation="NL GOV profile for CloudEvents is een set Nederlandse afspraken over het gebruik van de internationale standaard CloudEvents. Het beschrijft hoe een plaatsgevonden gebeurtenis gerapporteerd en uitgewisseld kan worden.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="Logius"/>
+  <properties
+      key="URL"
+      value="https://www.logius.nl/domeinen/gegevensuitwisseling/nl-gov-profile-cloudevents"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren metagegevens over datasets"
+    id="id-3ffbc6aa005e46cb97ef08ab03b5be5d"
+    documentation="Het creëren, vastleggen, wijzigen en (logisch) verwijderen van metadata over datasets."/>

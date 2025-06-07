@@ -1,4 +1,7 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Federatieve Catalogus Functie"
-    id="id-a28943d186b84e9cb8b89a7a7ea7c436"/>
+    id="id-a28943d186b84e9cb8b89a7a7ea7c436">
+  <properties
+      key="Source"/>
+</archimate:BusinessService>

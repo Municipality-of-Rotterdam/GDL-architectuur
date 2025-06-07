@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Objecttype"
+    id="id-170d9747f9ba4723815f12a197196de0"
+    documentation="De typering van een groep objecten die binnen een domein relevant zijn en als gelijksoortig worden beschouwd. (bron: Metamodel Informatie Modellering 1.2)"/>

@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MDTO"
+    id="id-da506cedc9354549ae7c15a57dbe5e13"
+    documentation="Metagegevens voor duurzaam toegankelijke overheidsinformatie (MDTO) is een norm voor het vastleggen en uitwisselen van eenduidige metagegevens om de duurzame toegankelijkheid van overheidsinformatie mogelijk te maken.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="Nationaal Archief"/>
+  <properties
+      key="URL"
+      value="https://www.nationaalarchief.nl/archiveren/mdto"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>
