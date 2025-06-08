@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebeurtenistype"
+    id="id-b9318ccb3527460e8583cfd59347fb37"
+    documentation="De typering van een groep gebeurtenissen die binnen een domein relevant zijn en als gelijksoortig worden beschouwd."/>
