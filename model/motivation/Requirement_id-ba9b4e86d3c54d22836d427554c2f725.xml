@@ -1,9 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verifiable Credentials"
-    id="id-ba9b4e86d3c54d22836d427554c2f725"
-    documentation="W3C Verifiable Credentials is a specification developed by the World Wide Web Consortium (W3C) to enable the creation, sharing, and verification of digital credentials in a secure and privacy-respecting manner.">
-  <properties
-      key="Source"
-      value="https://www.w3.org/TR/vc-data-model-2.0/ "/>
-</archimate:Requirement>

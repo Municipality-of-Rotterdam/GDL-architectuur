@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP11 - Ensure Participants Rights in Data Sovereignty"
-    id="id-2ac58e1910f44a0791f7caa43b2525d2"
-    documentation="Het hier beschreven ontwerpprincipe richt zich op twee belangrijke aspecten: datasoevereiniteit voor deelnemers en het beleid dat datagebruik en -toegang regelt. Het primaire doel is om uitgebreide richtlijnen en mechanismen te bieden waarmee initiatieven in de data space processen, activiteiten en samenwerkingen kunnen ontwerpen, ontwikkelen en operationaliseren die de rechten van deelnemers met betrekking tot datasoevereiniteit waarborgen.&#xD;&#xA;&#xD;&#xA;Kernconcepten: Recht op toegang tot en controle over data, mechanismen voor geïnformeerde toestemming, dataportabiliteit.&#xD;&#xA;&#xD;&#xA;Best practices voor het ontwikkelen van een governancekader omvatten het toepassen van specifieke benaderingen, zoals de 'use case blueprint' voor datadeling, het Data Ecosystem Canvas en sjablonen voor governanceovereenkomsten.&#xD;&#xA;">
-  <properties
-      key="Source"
-      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
-</archimate:Principle>

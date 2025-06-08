@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP01 - Reusabliilty of Data"
-    id="id-be7f06aba53140e6bb1d62e6fa278c24"
-    documentation="Het principe van herbruikbaarheid van data-ontwerp vormt de basis van het waardecreatieproces en biedt richtlijnen voor eigenaren van dataproducten. Ook worden best practices gedeeld om ervoor te zorgen dat hun data nieuwe gebruikers en use cases bedient die verder gaan dan het oorspronkelijke doel.&#xD;&#xA;&#xD;&#xA;Kernconcepten: Integriteit, metadata, modulariteit en granulariteit&#xD;&#xA;&#xD;&#xA;Best practices: Best practices voor herbruikbaarheid van data omvatten het gebruik van gemeenschappelijke datamodellen, het verstrekken van gedetailleerde beschrijvingen en metadata, en het aanbieden van datagerelateerde services zoals dataselectie, -integratie en -verwerking om het efficiënte hergebruik van data in verschillende applicaties verder te ondersteunen.&#xD;&#xA;">
-  <properties
-      key="Source"
-      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
-</archimate:Principle>

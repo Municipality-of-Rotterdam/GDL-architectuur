@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP13 - Promote Environmental Sustainability"
-    id="id-bbc1abc396ea4ff0a195a9ef51a13e86"
-    documentation="This design principle provides comprehensive guidelines for designing and constructing sustainable data spaces that effectively reduce carbon emissions. It emphasizes the incorporation of environmentally friendly practices and the utilization of data-sharing mechanisms that align with the broader goal of minimizing environmental impacts across various sectors.&#xD;&#xA;&#xD;&#xA;Core concepts: Sustainable Data Management Practices, Data Lifecyle Management, Eco- friendly technologies ">
-  <properties
-      key="Source"
-      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
-</archimate:Principle>

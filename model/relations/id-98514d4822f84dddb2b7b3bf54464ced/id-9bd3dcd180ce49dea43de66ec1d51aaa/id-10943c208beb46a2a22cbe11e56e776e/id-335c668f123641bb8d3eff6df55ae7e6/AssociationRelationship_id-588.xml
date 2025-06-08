@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft betrekking op"
+    id="id-588">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-585.xml#id-585"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_id-454.xml#id-454"/>
+</archimate:AssociationRelationship>

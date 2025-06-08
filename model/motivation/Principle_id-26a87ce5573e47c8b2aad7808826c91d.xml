@@ -1,9 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP03- Adaptable Data Space Governance Framework"
-    id="id-26a87ce5573e47c8b2aad7808826c91d"
-    documentation="Het Data Space Governance Raamwerk is een reeks leidende principes en werkwijzen die zorgen voor soepel beheer en toezicht op een dataruimte. Het definieert de rollen van de governance-autoriteit en de deelnemers en beschrijft de belangrijkste functies van de dataruimte. Om effectief te zijn, moet dit raamwerk flexibel genoeg zijn om te kunnen inspelen op interne eisen en externe veranderingen, zoals wetswijzigingen of de komst van nieuwe technologieën.&#xD;&#xA;&#xD;&#xA;Kernconcepten: Aanpasbaarheid, schaalbaarheid&#xD;&#xA;&#xD;&#xA;Best practices voor deze aanpak zijn onder andere het bouwen van een modulaire structuur die naar behoefte kan groeien en veranderen, en het regelmatig evalueren van het raamwerk om ervoor te zorgen dat het relevant blijft in het licht van nieuwe ontwikkelingen in technologie, wetgeving en de markt.&#xD;&#xA;">
-  <properties
-      key="Source"
-      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
-</archimate:Principle>

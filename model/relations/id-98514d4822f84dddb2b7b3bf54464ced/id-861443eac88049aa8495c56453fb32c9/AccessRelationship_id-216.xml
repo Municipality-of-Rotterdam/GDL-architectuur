@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="maakt gebruik van"
+    id="id-216"
+    accessType="1">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_id-211.xml#id-211"/>
+  <target
+      xsi:type="archimate:Material"
+      href="Material_id-207.xml#id-207"/>
+</archimate:AccessRelationship>

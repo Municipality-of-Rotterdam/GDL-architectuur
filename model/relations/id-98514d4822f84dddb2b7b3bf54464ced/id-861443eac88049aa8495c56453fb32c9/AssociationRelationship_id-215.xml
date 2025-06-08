@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verbindt"
+    id="id-215">
+  <source
+      xsi:type="archimate:DistributionNetwork"
+      href="DistributionNetwork_id-209.xml#id-209"/>
+  <target
+      xsi:type="archimate:Facility"
+      href="Facility_id-213.xml#id-213"/>
+</archimate:AssociationRelationship>

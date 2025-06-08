@@ -1,8 +1,0 @@
-<archimate:Requirement
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nederlands Profiel DCAT"
-    id="id-0431d2f45697421b9fa2d91dc3094529">
-  <properties
-      key="Source"
-      value="https://docs.geostandaarden.nl/dcat/dcat-ap-nl30/"/>
-</archimate:Requirement>
