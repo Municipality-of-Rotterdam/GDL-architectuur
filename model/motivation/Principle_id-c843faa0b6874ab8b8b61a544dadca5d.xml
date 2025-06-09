@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP05 - Ensure Interoperablitiy in data spaces"
+    id="id-c843faa0b6874ab8b8b61a544dadca5d"
+    documentation="Interconnected Interoperabiliteit is het vermogen van verschillende organisaties en deelnemers binnen een data spce  om data naadloos te delen, te begrijpen en te gebruiken. Het is essentieel voor effectief data delen en het maximaliseren van de gegenereerde waarde in een dataruimte.&#xD;&#xA;&#xD;&#xA;Kernconcepten: gestandaardiseerde dataformaten, gemeenschappelijke datamodellen, gestandaardiseerde API, gemeenschappelijk communicatieprotocol, rijke metadata&#xD;&#xA;&#xD;&#xA;Best practices. Om data-interoperabiliteit succesvol te laten zijn, moet een gemeenschappelijke technische basis worden gelegd, inclusief het gebruik van gestandaardiseerde datamodellen, het afstemmen van datasemantiek via gemeenschappelijke vocabulaires en het inzetten van gestandaardiseerde communicatieprotocollen. Overdrachtsprotocollen zoals HTTP, HTTPS, FTP of MQTT bieden regels voor data-uitwisseling, terwijl netwerkprotocollen zoals TCP/IP zorgen voor betrouwbare datatransmissie. Herkomst en traceerbaarheid zijn essentieel voor het behoud van de nauwkeurigheid en betrouwbaarheid van data. Regelmatige controles en validaties zijn nodig om de datakwaliteit te behouden en fouten in systemen te voorkomen.&#xD;&#xA;">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
+</archimate:Principle>

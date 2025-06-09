@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISO 15836"
+    id="id-da12469df66947e3a9b2863514116e4e"
+    documentation="ISO 15836-1:2017 beschrijft de Dublin Core metadata-elementen, die de basis vormen voor metadata over informatie-objecten.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="ISO"/>
+  <properties
+      key="URL"
+      value="https://www.iso.org/standard/71339.html"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

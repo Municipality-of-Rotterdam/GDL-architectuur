@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOOI"
+    id="id-5fb69e53ba854558aa98585a97568c92"
+    documentation="Thesauri en Ontologieën voor Overheidsinformatie (TOOI) is een kennismodel dat is gericht op het definiëren van een gemeenschappelijke taal voor het beschrijven van gegevens en metagegevens zodat overheidsinformatie beter vindbaar, toegankelijk, interoperabel en herbruikbaar wordt.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="Logius"/>
+  <properties
+      key="URL"
+      value="https://standaarden.overheid.nl/tooi"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

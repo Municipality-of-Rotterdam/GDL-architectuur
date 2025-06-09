@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CloudEvents"
+    id="id-e6a960b6473a4c578dced3210b63fc06"
+    documentation="Uitwisselen van berichten tussen applicaties over plaatsgevonden gebeurtenissen (notificaties).&#xD;&#xA;&#xD;&#xA;Status: Internationale standaard"/>

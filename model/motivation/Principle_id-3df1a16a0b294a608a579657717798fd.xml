@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP10 - Establishing Trust and Security in Data Spaces"
+    id="id-3df1a16a0b294a608a579657717798fd"
+    documentation="Centraal in een vertrouwde dataruimte staat de implementatie van effectieve beveiligingsstrategieën, met name op het gebied van identiteits- en claim management.&#xD;&#xA;&#xD;&#xA;Kernconcepten: Identificatie en claim management, verifieerbare referenties (verifiable credentials), beveiligingsmaatregelen en -protocollen&#xD;&#xA;">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
+</archimate:Principle>

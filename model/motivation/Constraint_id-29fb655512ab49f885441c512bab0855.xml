@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mod 002 Bronverwijzingen"
+    id="id-29fb655512ab49f885441c512bab0855"
+    documentation="De bron van een artefact wordt toegevoegd als 'Property' bij het kenmerk &quot;Source&quot;"/>

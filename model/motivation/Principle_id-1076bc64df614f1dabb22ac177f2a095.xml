@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP02- Pursuit Quality by Design"
+    id="id-1076bc64df614f1dabb22ac177f2a095"
+    documentation="Het doel van dit ontwerpprincipe is om richtlijnen en mechanismen te bieden en best practices te delen voor het produceren van hoogwaardige datasets, services en metadata die gebruiksvriendelijk, vindbaar en betrouwbaar zijn.&#xD;&#xA;&#xD;&#xA;Kernconcepten: Nauwkeurigheid, Consistentie, Volledigheid, Rijkdom, Betrouwbaarheid.&#xD;&#xA;&#xD;&#xA;Best practices voor kwaliteit omvatten het waarborgen van kwaliteit vanaf de ontwerpfase, het gebruiken van methodologieën zoals DevOps en DataOps om deze gedurende de gehele datalevenscyclus te handhaven, het volgen van vastgestelde normen en het aanpassen van kwaliteitsniveaus op basis van de specifieke vereisten van elke use case.&#xD;&#xA;">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
+</archimate:Principle>
