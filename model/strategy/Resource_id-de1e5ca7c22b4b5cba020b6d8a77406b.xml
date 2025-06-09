@@ -1,9 +1,0 @@
-<archimate:Resource
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generieke Digitale Infrastructuur"
-    id="id-de1e5ca7c22b4b5cba020b6d8a77406b"
-    documentation="https://www.digitaleoverheid.nl/mido/generieke-digitale-infrastructuur-gdi/">
-  <properties
-      key="Source"
-      value="https://github.com/MinBZK/gdi-gegevensuitwisseling"/>
-</archimate:Resource>

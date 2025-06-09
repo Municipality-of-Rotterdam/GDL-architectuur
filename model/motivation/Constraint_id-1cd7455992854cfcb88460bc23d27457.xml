@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mod 004 Pas toe of leg uit"
+    id="id-1cd7455992854cfcb88460bc23d27457"
+    documentation="Bij het modelleren van requirements voegen we de Pas toe of leg uit status van het FDS toe als property. Als voor het GDL een andere status wordt gehanteerd (aanbevolen), dan voegen we dat toe als extra property. "/>

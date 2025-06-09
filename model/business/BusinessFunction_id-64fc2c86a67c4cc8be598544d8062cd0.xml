@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Valideren gegevens"
-    id="id-64fc2c86a67c4cc8be598544d8062cd0"
-    documentation="Het controleren of gegevens voldoen aan het gegevensmodel en alle van toepassing zijnde beperkingsregels."/>

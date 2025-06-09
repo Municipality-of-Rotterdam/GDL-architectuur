@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FSC"
+    id="id-fa54c5911fb94c4e9d0c1c85d74719b0"
+    documentation="Status: Verplicht (pas toe of leg uit)">
+  <properties
+      key="Standaard in relatie tot FDS"
+      value="Pas toe of leg uit"/>
+  <properties
+      key="Standaard in relatie tot GDL"
+      value="Aanbevolen"/>
+</archimate:Requirement>

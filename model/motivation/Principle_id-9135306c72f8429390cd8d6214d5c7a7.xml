@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP09 - Transparency"
+    id="id-9135306c72f8429390cd8d6214d5c7a7"
+    documentation="The objective of this design principle is to establish transparency and provide guidelines for the design, development, and operationalization of governance structures that promote interoperability, data sovereignty, trust, and data value creation. &#xD;&#xA;&#xD;&#xA;Core Concepts: Transparent decision making process, common governance framework, traceability&#xD;&#xA;&#xD;&#xA;Best practicesfor maintaining transparency in data spaces include incorporating clear rules within the governance framework, defining understandable guidelines for policies, contracts, and consents, and ensuring clear descriptions of data, services, and offerings to avoid ambiguities.&#xD;&#xA;"/>
