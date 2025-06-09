@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is onderdeel van"
+    id="id-37">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-20.xml#id-20"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-20.xml#id-20"/>
+</archimate:AggregationRelationship>

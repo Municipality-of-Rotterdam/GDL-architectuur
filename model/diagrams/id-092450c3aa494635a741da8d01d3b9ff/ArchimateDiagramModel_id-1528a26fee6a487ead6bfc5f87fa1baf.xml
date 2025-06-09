@@ -1012,4 +1012,17 @@
         xsi:type="archimate:Principle"
         href="Principle_id-26bdcbc1a3c0454dadfd596ecaabe10b.xml#id-26bdcbc1a3c0454dadfd596ecaabe10b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7ce42b8a99a34426b895a719bbb045e6"
+      type="1">
+    <bounds
+        x="252"
+        y="634"
+        width="130"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-a28943d186b84e9cb8b89a7a7ea7c436.xml#id-a28943d186b84e9cb8b89a7a7ea7c436"/>
+  </children>
 </archimate:ArchimateDiagramModel>

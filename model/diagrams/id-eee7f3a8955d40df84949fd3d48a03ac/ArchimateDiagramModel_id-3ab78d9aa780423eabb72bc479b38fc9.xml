@@ -69,8 +69,8 @@
           href="AssociationRelationship_id-bd3fecccc58746d4be7ff33b34719fd1.xml#id-bd3fecccc58746d4be7ff33b34719fd1"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="168"
+        x="408"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -154,8 +154,8 @@
           href="AssociationRelationship_id-fffdb89399a64333a99a95450feeea96.xml#id-fffdb89399a64333a99a95450feeea96"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="360"
+        x="408"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -186,8 +186,8 @@
           href="AssociationRelationship_id-402d1c2f1244417b81cabf52a546709d.xml#id-402d1c2f1244417b81cabf52a546709d"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="540"
+        x="408"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -225,8 +225,8 @@
           href="AssociationRelationship_id-4a139afbdbb14199982bcbabe9862c47.xml#id-4a139afbdbb14199982bcbabe9862c47"/>
     </sourceConnections>
     <bounds
-        x="1392"
-        y="360"
+        x="1308"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -257,8 +257,8 @@
           href="AggregationRelationship_id-48a03139ae1b400a90b893338c3fc792.xml#id-48a03139ae1b400a90b893338c3fc792"/>
     </sourceConnections>
     <bounds
-        x="1392"
-        y="540"
+        x="1308"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -286,8 +286,8 @@
           href="AssociationRelationship_id-61353bd49ee34d3e92b9268f2a41a6e4.xml#id-61353bd49ee34d3e92b9268f2a41a6e4"/>
     </sourceConnections>
     <bounds
-        x="804"
-        y="540"
+        x="720"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -342,8 +342,8 @@
           href="AggregationRelationship_id-1587269e0d864a03a39418cc8c6e2f2e.xml#id-1587269e0d864a03a39418cc8c6e2f2e"/>
     </sourceConnections>
     <bounds
-        x="804"
-        y="360"
+        x="720"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -386,8 +386,8 @@
           href="AssociationRelationship_id-398b305a557a4a3d8c70250333679f67.xml#id-398b305a557a4a3d8c70250333679f67"/>
     </sourceConnections>
     <bounds
-        x="1392"
-        y="732"
+        x="1308"
+        y="660"
         width="120"
         height="55"/>
     <archimateElement
@@ -451,8 +451,8 @@
           href="AssociationRelationship_id-b8c023bddc044113b76aee5e36fc8474.xml#id-b8c023bddc044113b76aee5e36fc8474"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="732"
+        x="408"
+        y="660"
         width="120"
         height="55"/>
     <archimateElement
@@ -496,8 +496,8 @@
           href="AssociationRelationship_id-7301a38403594bf5b561861cf9abf68d.xml#id-7301a38403594bf5b561861cf9abf68d"/>
     </sourceConnections>
     <bounds
-        x="1079"
-        y="168"
+        x="995"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -532,8 +532,8 @@
           href="AssociationRelationship_id-e24be7ae71c945cc82616058de14f34e.xml#id-e24be7ae71c945cc82616058de14f34e"/>
     </sourceConnections>
     <bounds
-        x="1392"
-        y="168"
+        x="1308"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -563,8 +563,8 @@
           href="SpecializationRelationship_id-efd86e41d6e54ecdaf92a9e518c22c38.xml#id-efd86e41d6e54ecdaf92a9e518c22c38"/>
     </sourceConnections>
     <bounds
-        x="204"
-        y="732"
+        x="120"
+        y="660"
         width="120"
         height="55"/>
     <archimateElement
@@ -594,8 +594,8 @@
           href="SpecializationRelationship_id-e0701a15a3a14b3fa1a8716b1d1a562d.xml#id-e0701a15a3a14b3fa1a8716b1d1a562d"/>
     </sourceConnections>
     <bounds
-        x="204"
-        y="360"
+        x="120"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -635,8 +635,8 @@
           href="SpecializationRelationship_id-463014965f914f1dadaa990fea46b3c4.xml#id-463014965f914f1dadaa990fea46b3c4"/>
     </sourceConnections>
     <bounds
-        x="204"
-        y="168"
+        x="120"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -676,8 +676,8 @@
           href="AssociationRelationship_id-fba60bb0fcbf45f8b89632b9d003f4ed.xml#id-fba60bb0fcbf45f8b89632b9d003f4ed"/>
     </sourceConnections>
     <bounds
-        x="804"
-        y="732"
+        x="720"
+        y="660"
         width="120"
         height="55"/>
     <archimateElement
@@ -710,8 +710,8 @@
           href="AggregationRelationship_id-495079739f1d4a52bbaf3e6858c9cf7e.xml#id-495079739f1d4a52bbaf3e6858c9cf7e"/>
     </sourceConnections>
     <bounds
-        x="1080"
-        y="540"
+        x="996"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -748,8 +748,8 @@
           href="AggregationRelationship_id-a5db26f3b0c94cc49f1460242772edab.xml#id-a5db26f3b0c94cc49f1460242772edab"/>
     </sourceConnections>
     <bounds
-        x="1080"
-        y="732"
+        x="996"
+        y="660"
         width="120"
         height="55"/>
     <archimateElement
@@ -824,23 +824,12 @@
           href="AssociationRelationship_id-6a313511656146e1a3f493ff42e9147b.xml#id-6a313511656146e1a3f493ff42e9147b"/>
     </sourceConnections>
     <bounds
-        x="204"
-        y="540"
+        x="120"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-ec45be1305eb4ac894cd9a6907143069.xml#id-ec45be1305eb4ac894cd9a6907143069"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-8c5c084cb2964589ab226a9805352bad"
-      textAlignment="1"
-      content="Basisonderdelen van informatie voorziening.&#xA;1-op-1 Gekopieerd van GDI repo 2.0&#xA;RKOK&#xA;">
-    <bounds
-        x="36"
-        y="24"
-        width="277"
-        height="73"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is specialisatie van"
+    id="id-182">
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-162.xml#id-162"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-161.xml#id-161"/>
+</archimate:SpecializationRelationship>
