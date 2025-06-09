@@ -1,5 +1,0 @@
-<archimate:Constraint
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mod 006 NORA first... "
-    id="id-a52ceaf37bf44a978e5f5749893f3728"
-    documentation="Voor wat betreft de overheidsreferentie architecturen modelleren we eerst vanuit de NORA voor de hoog over GDL architectuur. Bij het uitwerken van specifieke use cases voegen we, indien nodig, de andere referentie architecturen toe (PETRA, GEMMA, WILMA, et cetera). &#xD;&#xA;&#xD;&#xA;Als onderdeel van de hoog over architectuur stellen we wel een totale mapping samen van de verschillende referentie architecturen naar de principes van het GDL."/>

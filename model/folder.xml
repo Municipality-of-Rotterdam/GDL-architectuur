@@ -2,4 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GDL Referentie Architectuur"
     id="id-151e00cd-785e-4233-bb5c-35ae69036588"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Standaard"
+      id="id-eff18ea7b5ff49058749b1f55f130ba7"
+      conceptType="Constraint"/>
+</archimate:ArchimateModel>

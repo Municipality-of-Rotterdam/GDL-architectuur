@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlenen toegang"
+    id="id-38008bc1f9f04765b9c6ecb46a8671fc"
+    documentation="Het authenticeren en autoriseren van afnemers voor toegang tot gegevensdiensten."/>

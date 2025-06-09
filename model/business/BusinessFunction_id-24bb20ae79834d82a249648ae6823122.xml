@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transformeren gegevens"
+    id="id-24bb20ae79834d82a249648ae6823122"
+    documentation="Het omvormen van gegevens van een bepaald gegevensmodel naar een ander gegevensmodel, inclusief het verrijken van de gegevens om te voldoen aan het gegevensmodel van het doel."/>

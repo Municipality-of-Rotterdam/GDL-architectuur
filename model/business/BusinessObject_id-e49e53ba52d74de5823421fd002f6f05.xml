@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beperkingsregel"
+    id="id-e49e53ba52d74de5823421fd002f6f05"
+    documentation="Een conditie of een beperking, die van toepassing is op één of meerdere modelelementen."/>

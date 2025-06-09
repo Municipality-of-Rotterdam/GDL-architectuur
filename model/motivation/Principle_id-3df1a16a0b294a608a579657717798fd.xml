@@ -1,5 +1,0 @@
-<archimate:Principle
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DP10 - Establishing Trust and Security in Data Spaces"
-    id="id-3df1a16a0b294a608a579657717798fd"
-    documentation="Central to a trusted data space is the implementation of effective security strategies, particularly in identity and claim management.&#xD;&#xA;&#xD;&#xA;Core concepts: Identification and claim management, verifiable credentials, security measures and protocols"/>

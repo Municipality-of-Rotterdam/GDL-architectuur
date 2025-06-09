@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Versleutelen gegevens"
+    id="id-ec49c3bc6c364cd8a41c56c78f767b48"
+    documentation="Het inhoudelijk encrypten van gegevens zodat zij niet meer voor onbevoegden leesbaar zijn."/>
