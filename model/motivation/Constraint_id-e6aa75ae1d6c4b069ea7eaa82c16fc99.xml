@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NL ISO 19119"
+    id="id-e6aa75ae1d6c4b069ea7eaa82c16fc99"
+    documentation="Nederlands metadataprofiel op ISO 19119 services. Dit metadataprofiel beschrijft de verplichte metadata elementen van een service op een dataset of dataset serie. ">
+  <properties
+      key="Status"
+      value="Verplicht"/>
+  <properties
+      key="Functioneel toepassingsgebied"
+      value="Geo-standaarden moeten worden toegepast op de uitwisseling van geografische informatie tussen organisaties, waarbij de ruimtelijke dimensie van significant belang is."/>
+  <properties
+      key="Beheerorganisatie"
+      value="Geonovum"/>
+  <properties
+      key="URL"
+      value="https://www.forumstandaardisatie.nl/open-standaarden/Geo-standaarden"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

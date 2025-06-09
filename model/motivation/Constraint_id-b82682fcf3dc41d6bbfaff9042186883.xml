@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ArchiMate"
+    id="id-b82682fcf3dc41d6bbfaff9042186883"
+    documentation="ArchiMate is een taal voor het modelleren van enterprise-architectuur.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="The Open Group"/>
+  <properties
+      key="URL"
+      value="https://www.opengroup.org/archimate-forum/archimate-overview"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

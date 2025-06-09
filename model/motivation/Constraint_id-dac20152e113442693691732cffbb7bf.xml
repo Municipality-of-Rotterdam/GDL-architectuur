@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="XACML"
+    id="id-dac20152e113442693691732cffbb7bf"
+    documentation="eXtensible Access Control Markup Language (XACML) is een op XML gebaseerde taal voor het uitdrukken van autorisatieregels.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="OASIS"/>
+  <properties
+      key="URL"
+      value="https://docs.oasis-open.org/xacml/3.0/xacml-3.0-core-spec-os-en.html"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

@@ -1,0 +1,20 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeoPackage"
+    id="id-0b101bd59d6d4a6aba71328ce1831abd"
+    documentation="GeoPackage is een bestandsformaat voor het vastleggen van geografische gegevens.">
+  <properties
+      key="Status"
+      value="Verplicht"/>
+  <properties
+      key="Functioneel toepassingsgebied"
+      value="Geo-standaarden moeten worden toegepast op de uitwisseling van geografische informatie tussen organisaties, waarbij de ruimtelijke dimensie van significant belang is."/>
+  <properties
+      key="Beheerorganisatie"
+      value="OGC"/>
+  <properties
+      key="URL"
+      value="https://www.geopackage.org/"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

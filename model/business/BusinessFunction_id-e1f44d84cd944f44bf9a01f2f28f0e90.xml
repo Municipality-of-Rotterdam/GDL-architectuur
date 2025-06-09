@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loggen verzending"
+    id="id-e1f44d84cd944f44bf9a01f2f28f0e90"
+    documentation="Het vastleggen van metagegevens over de gegevens die zijn verzonden van aanbieders naar afnemers."/>

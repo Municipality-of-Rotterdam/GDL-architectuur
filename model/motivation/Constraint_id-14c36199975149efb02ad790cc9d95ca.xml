@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JSON Schema"
+    id="id-14c36199975149efb02ad790cc9d95ca"
+    documentation="JSON Schema wordt gebruikt voor het beschrijven van op JSON gebaseerde koppelvlakken voor gegevensuitwisseling">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="IETF"/>
+  <properties
+      key="URL"
+      value="https://json-schema.org/"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>
