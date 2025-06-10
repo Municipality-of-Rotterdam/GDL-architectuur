@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AsyncAPI"
+    id="id-9427e5cb96d34449bb496ad4e1470305"
+    documentation="AsyncAPI is een taal voor het specificeren van asynchrone API's.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="AsyncAPI Initiative"/>
+  <properties
+      key="URL"
+      value="https://www.asyncapi.com/"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

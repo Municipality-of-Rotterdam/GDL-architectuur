@@ -1,0 +1,53 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federatieve Catalogus gerelateerd aan Data Spaces Publicatie"
+    id="id-4c484f9ede3f434b9d4305001e3d5568"
+    documentation="https://dssc.eu/space/BVE/357076320/Publication+and+Discovery">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fe2e6daf2efc4f6da54c764cdac18536"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e8b1f879848b4a0cbe252884887693e4"
+        source="id-fe2e6daf2efc4f6da54c764cdac18536"
+        target="id-b5491bad8fb948bea584df7fd4400c65">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-8f4ea7001b194ba6b40024b031d3ccdc.xml#id-8f4ea7001b194ba6b40024b031d3ccdc"/>
+    </sourceConnections>
+    <bounds
+        x="444"
+        y="72"
+        width="133"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-66f33978328d4210983ea18b0ed040d3.xml#id-66f33978328d4210983ea18b0ed040d3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0b09f3f35d2a434a901cee51a41004c5"
+      textAlignment="1"
+      content="RKOK: De functie van de federatieve catalogus is gedetailleerd beschreven in Data Spaces (Publication and Discovery): &#xA;&#xA;https://dssc.eu/space/BVE/357076320/Publication+and+Discovery&#xA;&#xA;Een overzichtelijk plaatje daarin: &#xA;&#xA;https://dssc.eu/download/attachments/357076320/DSSC%20functional%20components-PD.png&#xA;">
+    <bounds
+        x="24"
+        y="12"
+        width="395"
+        height="179"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b5491bad8fb948bea584df7fd4400c65"
+      targetConnections="id-e8b1f879848b4a0cbe252884887693e4">
+    <bounds
+        x="624"
+        y="74"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-42b256ada06a415aa911e407d5e2302a.xml#id-42b256ada06a415aa911e407d5e2302a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

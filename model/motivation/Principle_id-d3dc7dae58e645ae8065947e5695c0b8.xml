@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP07 - Ensure Compliance with EU Legal Frameworks and Norms"
+    id="id-d3dc7dae58e645ae8065947e5695c0b8"
+    documentation="Dit ontwerpprincipe biedt richtlijnen en mechanismen die de naleving van de toepasselijke EU-wetgeving waarborgen, terwijl tegelijkertijd de fundamentele rechten worden beschermd en eerlijke concurrentie wordt bevorderd.&#xD;&#xA;&#xD;&#xA;Kernconcepten: Europese wet- en regelgeving, naleving van sectorale regelgeving, governance en juridische verantwoording.&#xD;&#xA;&#xD;&#xA;Best practices. In geval van specifieke gebeurtenissen binnen een data space is een systematische aanpak noodzakelijk, inclusief het definiëren van de reikwijdte en context van relevante regelgeving, het identificeren van toepasselijke wetten en het toewijzen van rollen en verantwoordelijkheden. Organisaties dienen vanaf het begin van alle gegevensverwerkingsactiviteiten technische en organisatorische maatregelen te implementeren en regelmatige monitoring- en beoordelingstools in te stellen om voortdurende naleving en continue verbetering te vergemakkelijken.&#xD;&#xA;">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
+</archimate:Principle>

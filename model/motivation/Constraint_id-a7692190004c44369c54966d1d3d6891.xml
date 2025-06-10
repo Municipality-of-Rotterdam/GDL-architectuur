@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GraphQL"
+    id="id-a7692190004c44369c54966d1d3d6891"
+    documentation="GraphQL is een protocol en vraagtaal voor het bevragen van gegevens.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="The GraphQL Foundation."/>
+  <properties
+      key="URL"
+      value="https://graphql.org/"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

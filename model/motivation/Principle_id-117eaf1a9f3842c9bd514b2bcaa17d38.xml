@@ -1,0 +1,9 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DP08 - Discoverability, Availability, and Accessibility of Data"
+    id="id-117eaf1a9f3842c9bd514b2bcaa17d38"
+    documentation="Het potentieel van gedeelde databronnen wordt gemaximaliseerd door drie belangrijke factoren: vindbaarheid, beschikbaarheid en toegankelijkheid. Data space initiatieven moeten zich richten op het waarborgen van zowel de beschikbaarheid als het effectieve gebruik van data, en het volledig benutten van het potentieel van datadeling tussen verschillende deelnemers.&#xD;&#xA;&#xD;&#xA;Kernbegrippen: Beschikbaarheid, Openheid en Toegankelijkheid, vindbaarheid&#xD;&#xA;&#xD;&#xA;Best practices voor het waarborgen van de beschikbaarheid en het gebruik van data omvatten het opbouwen van vertrouwen tussen partners in de data space, het bevorderen van hergebruik van openbare data, het aantonen van de toegevoegde waarde van datadeling, het verbeteren van de datakwaliteit door validatie ten opzichte van andere bronnen en het prioriteren van gebruikersbehoeften.">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/News/blog/920944641/Design+Principles+for+Building+Interoperable+and+Trusted+Data+Spaces en https://confluence.external-share.com/content/90898/dssc_insight_webinars_-_slides"/>
+</archimate:Principle>

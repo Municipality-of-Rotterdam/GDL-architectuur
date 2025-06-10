@@ -1,0 +1,17 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RegelSpraak"
+    id="id-586bfe858a2c498bb017211b5a21c892"
+    documentation="RegelSpraak is een taal voor het beschrijven van bedrijfsregels op een manier die dicht tegen natuurlijke taal aanligt.">
+  <properties
+      key="Status"
+      value="geen"/>
+  <properties
+      key="Beheerorganisatie"
+      value="Belastingdienst"/>
+  <properties
+      key="URL"
+      value="https://wendbarewetsuitvoering.pleio.nl/page/view/291f5846-cdfc-42d9-9f31-a2158fe59128/specificaties-regelspraak"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>
