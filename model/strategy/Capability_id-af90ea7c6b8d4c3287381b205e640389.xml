@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regulatory compliance"
-    id="id-af90ea7c6b8d4c3287381b205e640389"/>
+    id="id-af90ea7c6b8d4c3287381b205e640389"
+    documentation="Dit bouwblok benadrukt belangrijke elementen voor het waarborgen van naleving binnen de data space en schetst acties die moeten worden ondernomen door data space deelnemers of potentiële beleidslijnen die de governance-autoriteit moet overwegen te creëren. Het neemt een praktische benadering door te focussen op juridische triggers, d.w.z. elementen, criteria of gebeurtenissen die zich hebben voorgedaan in een specifieke context van een data space en signaleren dat een specifiek juridisch kader moet of zou moeten worden toegepast."/>

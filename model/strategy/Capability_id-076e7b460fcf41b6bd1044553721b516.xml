@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identiteit"
-    id="id-076e7b460fcf41b6bd1044553721b516"/>
+    id="id-076e7b460fcf41b6bd1044553721b516"
+    documentation="De stelselfunctie Identiteit betreft het vermogen om de identiteit van bijvoorbeeld een systeem, persoon of organisatie met afdoende zekerheid vast te stellen. Dit vindt plaats door gebruik te maken van identificerende kenmerken (zoals een identificatienummer) en een identificatiemiddel (zoals een digitaal versleuteld certificaat). Identificatiemiddelen worden gebruikt om de identiteit van iets of iemand met zekerheid vast te kunnen stellen.">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/identiteit/"/>
+</archimate:Capability>

@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veiligheid"
-    id="id-4aa7f3ced4f2495d914a255f9f0c3d5e"/>
+    id="id-4aa7f3ced4f2495d914a255f9f0c3d5e"
+    documentation="Deze stelselfunctie faciliteert de vertrouwde data-uitwisseling onder deelnemers, waardoor deelnemers in een data-uitwisselingstransactie geruststellen dat die andere deelnemers echt zijn wie zij beweren te zijn en dat zij voldoen aan gedefinieerde regels/overeenkomsten. Dit kan worden bereikt door organisatorische maatregelen (bijv. certificering of geverifieerde referenties) of technische maatregelen (bijvoorbeeld attestatie op afstand).">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/veiligheid/"/>
+</archimate:Capability>

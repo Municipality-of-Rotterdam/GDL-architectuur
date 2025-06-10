@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata"
-    id="id-78c85e0474ac441e96b8dc77dd3d3b9e"/>
+    id="id-78c85e0474ac441e96b8dc77dd3d3b9e"
+    documentation="Om data effectief te kunnen gebruiken moet duidelijk zijn in welke context en met welk doel de data is ontstaan en wat de betekenis ervan is. Om te kunnen weten en begrijpen wat bepaalde data betekent, beschrijven we deze met metadata. De metadata geeft potentiële afnemers inzicht in wat, voor wie en onder welke condities binnen het stelsel beschikbaar is.&#xD;&#xA;&#xD;&#xA;De publicatie van metadata in een catalogus is onderdeel van de stelselfunctie Publicatie.">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/metadata/"/>
+</archimate:Capability>

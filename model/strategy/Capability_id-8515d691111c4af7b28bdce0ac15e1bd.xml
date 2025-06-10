@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Traceerbaarheid"
-    id="id-8515d691111c4af7b28bdce0ac15e1bd"/>
+    id="id-8515d691111c4af7b28bdce0ac15e1bd"
+    documentation="De stelselfunctie Traceerbaarheid biedt de middelen voor tracering en tracking in het proces van dataverstrekking en dataverbruik/gebruik. Het biedt daardoor de basis voor een aantal belangrijke functies, van identificatie van de lijn van gegevens tot auditbestendige logboekregistratie van transacties.&#xD;&#xA;&#xD;&#xA;In de context van traceerbaarheid worden ook termen als lineage en provenance gebruikt. Deze drie termen hebben subtiel verschillende betekenissen die allen betrekking hebben op de inzichtelijkheid in de herkomst, totstandkoming en het gebruik van data. Traceerbaarheid richt zich op het volgen van van gegevens door ketens, lineage richt zich meer op de bewerkingen die de data hebben ondergaan en provenance richt zich meer op de betrouwbaarheid en authenticiteit van gegevens. Binnen FDS maken we geen onderscheid tussen traceerbaarheid, lineage en provenance en vatten we elk van deze vormen onder de stelselfunctie Traceerbaarheid.">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/traceerbaarheid/"/>
+</archimate:Capability>

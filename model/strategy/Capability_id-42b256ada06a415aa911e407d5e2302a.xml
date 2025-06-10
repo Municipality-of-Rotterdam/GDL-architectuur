@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publicatie"
-    id="id-42b256ada06a415aa911e407d5e2302a"/>
+    id="id-42b256ada06a415aa911e407d5e2302a"
+    documentation="Om het aanbod van databronnen en -diensten onder gedefinieerde voorwaarden te ondersteunen, moeten inzichtelijk zijn wat beschikbaar is. Deze stelselfunctie ondersteunt de publicatie van het aanbod zodat een afnemer het aanbod kan vinden en kan beoordelen of het zinvol kan en mag worden afgenomen">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/publicatie/"/>
+</archimate:Capability>

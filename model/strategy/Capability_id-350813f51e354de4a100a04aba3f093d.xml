@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modellen"
-    id="id-350813f51e354de4a100a04aba3f093d"/>
+    id="id-350813f51e354de4a100a04aba3f093d"
+    documentation="Deze stelselfunctie beschrijft hoe gegevens- en informatiemodellen worden gehanteerd en geven daarmee betekenis en onderlinge samenhang aan de data die wordt uitgewisseld via Dataservices. De betekenis van gegevens wordt ook wel uitgedrukt als de semantiek van gegevens. Gegevens- en informatiemodellen zijn een vorm van Metadata.&#xD;&#xA;">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/modellen/"/>
+</archimate:Capability>

@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kwaliteit"
-    id="id-d4fa2b8e799c40d6aebb80a41b200dbc"/>
+    id="id-d4fa2b8e799c40d6aebb80a41b200dbc"
+    documentation="De stelselfunctie kwaliteit ondersteunt het definiëren en verbeteren van de kwaliteit van aangeboden gegevens en dataservices.">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/kwaliteit/"/>
+</archimate:Capability>

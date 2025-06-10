@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Governance"
-    id="id-df939998401044d9902361743e92cf88"/>
+    id="id-df939998401044d9902361743e92cf88">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071253634/Governance+Building+Blocks"/>
+</archimate:Capability>

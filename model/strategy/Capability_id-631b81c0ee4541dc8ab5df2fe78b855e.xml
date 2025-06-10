@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intermediaries &amp; Operators"
-    id="id-631b81c0ee4541dc8ab5df2fe78b855e"/>
+    id="id-631b81c0ee4541dc8ab5df2fe78b855e"
+    documentation="Een van de kernontwerpthema's voor een data space is om te overwegen hoe het gebruik maakt van dienstverleners om noodzakelijke technische diensten evenals zakelijke en organisatorische diensten te leveren. Terwijl de data space governance authority (DSGA) en data space deelnemers deze diensten zelf kunnen leveren, zijn er veel zakelijke en governance redenen waarom de inkoop van diensten voordelen biedt. Dit bouwblok gaat in op wat voor soort zakelijke, governance, juridische en contractuele onderwerpen de DSGA moet focussen bij het inkopen van ondersteunende diensten van tussenpersonen of een operator.">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071253470/Intermediaries+and+Operators"/>
+</archimate:Capability>
