@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afleidingsregel"
+    id="id-a77e87f185a8464b9ac19f732011f25d"
+    documentation="Een regel die beschrijft hoe bepaalde soorten gegevens kunnen worden afgeleid uit andere soorten gegevens."/>

@@ -1,0 +1,52 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Federatieve Catalogus gerelateerd aan FDS Publicatie"
+    id="id-4530b3e355c049eba2159c2a2af190b7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-be9bb9542d464e43a22acb9c53cacf2b"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-466541d61ffb4c69a204b18a1fa49dd9"
+        source="id-be9bb9542d464e43a22acb9c53cacf2b"
+        target="id-58d386569be74f18a6934711fe11bdea">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-8f4ea7001b194ba6b40024b031d3ccdc.xml#id-8f4ea7001b194ba6b40024b031d3ccdc"/>
+    </sourceConnections>
+    <bounds
+        x="504"
+        y="36"
+        width="133"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_id-66f33978328d4210983ea18b0ed040d3.xml#id-66f33978328d4210983ea18b0ed040d3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d43c338a09b9448f9acbcd2f13f36af6"
+      textAlignment="1"
+      content="RKOK: De Federatieve Catalogus in context van FDS komt overeen met de publicatie capbility van Data Spaces&#xA;&#xA;https://federatief.datastelsel.nl/puzzels/vindbaarheid-semantisch-catalogus/&#xA;&#xA;https://federatief.datastelsel.nl/puzzels/vindbaarheid-technisch-discovery-directory/">
+    <bounds
+        x="12"
+        y="24"
+        width="467"
+        height="169"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-58d386569be74f18a6934711fe11bdea"
+      targetConnections="id-466541d61ffb4c69a204b18a1fa49dd9">
+    <bounds
+        x="696"
+        y="44"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-42b256ada06a415aa911e407d5e2302a.xml#id-42b256ada06a415aa911e407d5e2302a"/>
+  </children>
+</archimate:ArchimateDiagramModel>
