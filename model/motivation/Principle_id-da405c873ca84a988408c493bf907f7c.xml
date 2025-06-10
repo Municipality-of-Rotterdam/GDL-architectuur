@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NAP 10 Neem gegevens als fundament"
     id="id-da405c873ca84a988408c493bf907f7c"
-    documentation="NORA Principe"/>
+    documentation="NORA Principe; Gebruik gegevens als fundament voor het ontwerp, realisatie en doorontwikkeling van de dienst en richt het beheer hiervan goed in.">
+  <properties
+      key="Source"
+      value="https://www.noraonline.nl/wiki/Neem_gegevens_als_fundament"/>
+</archimate:Principle>

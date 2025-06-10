@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="I2 (Meta)data gebruiken gegevenswoordenboeken of vocabulaires die FAIR-principes volgen"
-    id="id-e9fc6f39a3234720b190e6ac38cd7bfe"/>
+    id="id-e9fc6f39a3234720b190e6ac38cd7bfe">
+  <properties
+      key="Source"
+      value="https://gofair-foundation.github.io/gofair-wiki-gov-nl/docs/principles/content.html"/>
+</archimate:Requirement>

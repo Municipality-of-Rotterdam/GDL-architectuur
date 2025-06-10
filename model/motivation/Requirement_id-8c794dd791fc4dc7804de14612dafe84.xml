@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="I3 (Meta)data bevatten gekwalificeerde verwijzingen naar andere (meta)data"
-    id="id-8c794dd791fc4dc7804de14612dafe84"/>
+    id="id-8c794dd791fc4dc7804de14612dafe84">
+  <properties
+      key="Source"
+      value="https://gofair-foundation.github.io/gofair-wiki-gov-nl/docs/principles/content.html"/>
+</archimate:Requirement>

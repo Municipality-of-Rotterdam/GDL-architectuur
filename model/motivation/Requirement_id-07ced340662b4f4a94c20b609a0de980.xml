@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="A1 (Meta)data zijn opvraagbaar op basis van hun identificatiecode met behulp van een gestandaardiseerd communicatieprotocol"
-    id="id-07ced340662b4f4a94c20b609a0de980"/>
+    id="id-07ced340662b4f4a94c20b609a0de980">
+  <properties
+      key="Source"
+      value="https://gofair-foundation.github.io/gofair-wiki-gov-nl/docs/principles/content.html"/>
+</archimate:Requirement>

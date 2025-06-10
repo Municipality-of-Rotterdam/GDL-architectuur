@@ -1,4 +1,8 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="FAIR - Herbruikbaarheid (Reusable)"
-    id="id-6d651a6d70ac4d5d9a9ac27561fac68d"/>
+    id="id-6d651a6d70ac4d5d9a9ac27561fac68d">
+  <properties
+      key="Source"
+      value="https://gofair-foundation.github.io/gofair-wiki-gov-nl/docs/principles/content.html"/>
+</archimate:Principle>
