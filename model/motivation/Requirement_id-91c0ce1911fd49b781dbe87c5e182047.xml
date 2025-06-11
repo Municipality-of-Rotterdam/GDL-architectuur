@@ -1,7 +1,7 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="I1 (Meta)data gebruiken een formele, toegankelijke, gedeelde en breed toepasbare taal voor kennisrepresentatie"
-    id="id-f61e2d62b1cd4174929fa21179915e53">
+    name="R3 (Meta) data voldoen aan domein-relevante normen"
+    id="id-91c0ce1911fd49b781dbe87c5e182047">
   <properties
       key="Source"
       value="https://gofair-foundation.github.io/gofair-wiki-gov-nl/docs/principles/content.html"/>

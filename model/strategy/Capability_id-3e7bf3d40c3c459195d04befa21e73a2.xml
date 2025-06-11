@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toegang"
-    id="id-3e7bf3d40c3c459195d04befa21e73a2"/>
+    id="id-3e7bf3d40c3c459195d04befa21e73a2"
+    documentation="Deze stelselfunctie bepaalt of, en in welke mate, toegang wordt verleend tot aangeboden gegevens. Zowel de aanbieder als de afnemer implementeert mechanismen voor datatoegang om misbruik van gegevens te voorkomen. Toegang vertrouwt op betrouwbaar geïdentificeerde partijen zoals omschreven in de stelselfuncties Identiteit en Veiligheid.">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/toegang/"/>
+</archimate:Capability>

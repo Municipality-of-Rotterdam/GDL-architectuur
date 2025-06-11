@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contractual Framework"
-    id="id-9dabe723ceca4461bc8f062b1de31127"/>
+    id="id-9dabe723ceca4461bc8f062b1de31127"
+    documentation="Dit bouwblok biedt een functioneel overzicht van essentiële contracten in een data space, waarbij overeenkomsten worden gecategoriseerd volgens hun objecten: institutionele overeenkomsten, data sharing overeenkomsten en service overeenkomsten. Voor elke categorie van overeenkomsten benadrukt het horizontale kwesties die waarschijnlijk zullen ontstaan of rekening moeten houden met gemeenschappelijke sectoren (bijv. de eis van eerlijkheid in data contracten).">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071254557/Contractual+Framework"/>
+</archimate:Capability>

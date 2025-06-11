@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Space Offering"
-    id="id-c8da320215774622843c5de3d75f031b"/>
+    id="id-c8da320215774622843c5de3d75f031b"
+    documentation="Het aanbod van de data space bestaat uit de set van aanbiedingen die beschikbaar zijn in een data space voor deelnemers. Aanbiedingen bevatten dataproducten, diensten en de beschrijving van het aanbod die alle informatie biedt die nodig is voor een potentiële consument om te beslissen of ze het dataproduct en/of de dienst willen gebruiken of niet. Dit bouwblok biedt de data space-initiatieven inzicht in de aanbiedingen vanuit een zakelijk perspectief. Het stelt voor om een strategie voor het data space-aanbod te ontwikkelen en te onderhouden. ">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071253231/Data+Space+Offering"/>
+</archimate:Capability>

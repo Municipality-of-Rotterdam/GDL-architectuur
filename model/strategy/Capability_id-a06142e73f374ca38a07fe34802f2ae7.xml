@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Legal"
-    id="id-a06142e73f374ca38a07fe34802f2ae7"/>
+    id="id-a06142e73f374ca38a07fe34802f2ae7">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071253899/Legal+Building+Blocks"/>
+</archimate:Capability>

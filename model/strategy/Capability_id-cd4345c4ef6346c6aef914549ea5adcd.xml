@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Model"
-    id="id-cd4345c4ef6346c6aef914549ea5adcd"/>
+    id="id-cd4345c4ef6346c6aef914549ea5adcd"
+    documentation="Dit bouwblok biedt concepten en richtlijnen voor het succesvol ontwikkelen en onderhouden van een businessmodel voor een data space. Het benadrukt de belangrijkste thema's met betrekking tot het businessmodel die de data space-initiatieven moeten overwegen. Een data space's businessmodel verschilt van typische businessmodellen doordat het gaat om meerdere organisaties die data delen en gebruiken, en organisaties die de infrastructuur leveren. Daarom moet het businessmodel van een data space anders worden benaderd. ">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071252828/Business+Model"/>
+</archimate:Capability>

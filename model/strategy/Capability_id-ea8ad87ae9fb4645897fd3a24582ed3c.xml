@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business"
-    id="id-ea8ad87ae9fb4645897fd3a24582ed3c"/>
+    id="id-ea8ad87ae9fb4645897fd3a24582ed3c">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071252740/Business+Building+Blocks"/>
+</archimate:Capability>

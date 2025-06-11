@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Participation Management"
-    id="id-5d246c1b577f48b2924c7d936d35bb57"/>
+    id="id-5d246c1b577f48b2924c7d936d35bb57"
+    documentation="Dit bouwblok schetst governance-processen voor het beheren van deelnemersbetrokkenheid in data spaces. Dit omvat het identificeren van deelnemers, onboarding, offboarding en het vaststellen van regels voor datatransacties en dienstverlening. Het behandelt risico's zoals uitdagingen in datagovernance en verminderde samenwerking. Dit bouwblok biedt richtlijnen voor efficiënte en veilige deelname door relaties met andere governance-aspecten zoals naleving van regelgeving en identiteitsbeheer te integreren. Het bouwblok biedt richtlijnen voor data space deelnemers voor de implementatie van interne datagovernance die data space specifieke zorgen aanpakt.">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071253799/Participation+Management"/>
+</archimate:Capability>

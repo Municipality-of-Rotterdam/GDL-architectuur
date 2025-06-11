@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dataservices"
-    id="id-8557e91f22744634a8e129243756e603"/>
+    id="id-8557e91f22744634a8e129243756e603"
+    documentation="Deze stelselfunctie beschrijft hoe de uitwisseling van gegevens via services kan worden gestandaardiseerd. Dit heeft betrekking op de wijze waarop Application Programming Interfaces (API’s) worden vormgegeven. Het standaardiseren van API’s vergemakkelijkt het uitwisselen van gegevens, in het bijzonder voor afnemers die gegevens van verschillende aanbieders combineren">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/dataservices/"/>
+</archimate:Capability>

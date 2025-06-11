@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisational form &amp; governance authority"
-    id="id-0effd721747d4b089e0fb7a79334a6b3"/>
+    id="id-0effd721747d4b089e0fb7a79334a6b3"
+    documentation="Dit bouwblok omvat belangrijke besluitvormingspunten voor de effectieve oprichting en werking van een data space, namelijk de bepaling van de vorm van een organisatie en de oprichting van een data space, de oprichting van een governance-autoriteit en de oprichting van een data space governance-raamwerk. Organisatorische vorm (of juridische vorm) verwijst naar het type juridische entiteit dat een data space kan aannemen. Een data space governance-raamwerk is een set van interne regels en beleidslijnen die van toepassing zijn op alle data space deelnemers. Een governance-autoriteit verwijst naar organen van een data space die zijn samengesteld door en door data space deelnemers die verantwoordelijk zijn voor het ontwikkelen en onderhouden evenals het opereren en handhaven van de interne regels.">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071253671/Organisational+Form+and+Governance+Authority"/>
+</archimate:Capability>

@@ -1,4 +1,9 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Use Case Development"
-    id="id-ca780f0eb4f5486b9eb001e6d6cc89a7"/>
+    id="id-ca780f0eb4f5486b9eb001e6d6cc89a7"
+    documentation="Use cases creëren waarde, die economisch, sociaal of milieugericht kan zijn. Meer waarde wordt gecreëerd met meer en betere use cases. Use Case Development streeft ernaar deze waarde te vergroten door het creëren, ondersteunen en opschalen van use cases te bevorderen. Dit bouwblok biedt richtlijnen voor het ontwikkelen en implementeren van use cases voor data space-initiatieven. Het biedt richtlijnen over hoe deelnemers kunnen worden ondersteund bij het verkennen, ontwikkelen en onboarden van use cases. Een data space kan ondersteunende diensten aanbieden zoals bemiddeling tussen partners of andere middelen, zoals sjablonen met use case-criteria.  en moet worden gemonitord en aangepast in de loop van de tijd.">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071253123/Use+Case+Development"/>
+</archimate:Capability>
