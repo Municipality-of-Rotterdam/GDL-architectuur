@@ -1,0 +1,12 @@
+<archimate:CompositionRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestaat uit"
+    id="id-44f40a3df75f4d82be661a8add9529b4">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-b14ecd9bedb34c2ebcaf820f529bc30d.xml#id-b14ecd9bedb34c2ebcaf820f529bc30d"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-e1c449c70c3e40caa7cb9c747a7d8989.xml#id-e1c449c70c3e40caa7cb9c747a7d8989"/>
+</archimate:CompositionRelationship>

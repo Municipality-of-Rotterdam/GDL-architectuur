@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verder uitgewerkt door"
+    id="id-8db1cb34f83146f2821eaa1cc6fb2a56">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-cbb176b9bdb9494aad190c42559a76c0.xml#id-cbb176b9bdb9494aad190c42559a76c0"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-b14ecd9bedb34c2ebcaf820f529bc30d.xml#id-b14ecd9bedb34c2ebcaf820f529bc30d"/>
+</archimate:FlowRelationship>

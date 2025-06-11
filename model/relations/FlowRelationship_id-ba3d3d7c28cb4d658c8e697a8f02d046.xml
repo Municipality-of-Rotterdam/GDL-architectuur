@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Waarna"
+    id="id-ba3d3d7c28cb4d658c8e697a8f02d046">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-cbb176b9bdb9494aad190c42559a76c0.xml#id-cbb176b9bdb9494aad190c42559a76c0"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-d571bdfbfd304ded9cabb90efeba32f5.xml#id-d571bdfbfd304ded9cabb90efeba32f5"/>
+</archimate:FlowRelationship>

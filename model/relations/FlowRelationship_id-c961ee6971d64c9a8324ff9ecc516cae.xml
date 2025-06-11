@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maakt mogelijk"
+    id="id-c961ee6971d64c9a8324ff9ecc516cae">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-e6abf9e65b614f45b8d2180d412dd1de.xml#id-e6abf9e65b614f45b8d2180d412dd1de"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-cbb176b9bdb9494aad190c42559a76c0.xml#id-cbb176b9bdb9494aad190c42559a76c0"/>
+</archimate:FlowRelationship>
