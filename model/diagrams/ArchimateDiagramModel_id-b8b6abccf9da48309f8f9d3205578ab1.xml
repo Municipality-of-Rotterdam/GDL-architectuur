@@ -7,8 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6ade660bf1e744a2a83f5dc7f81592ee">
     <bounds
-        x="70"
-        y="252"
+        x="72"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -20,7 +20,7 @@
       id="id-829ddd061a0e4b5f97b506b8c911e7ec">
     <bounds
         x="72"
-        y="324"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -32,7 +32,7 @@
       id="id-fbf985d2e7f64aa5a8d4f96cb62a2e27">
     <bounds
         x="72"
-        y="396"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -44,7 +44,7 @@
       id="id-ed53233edf6542d0abc8d32657a3fae9">
     <bounds
         x="72"
-        y="468"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
@@ -56,7 +56,7 @@
       id="id-ee03be86468b4edaa5157f6446ef04b7">
     <bounds
         x="72"
-        y="540"
+        y="384"
         width="120"
         height="55"/>
     <archimateElement
@@ -68,7 +68,7 @@
       id="id-7136c047da9a4f84b3130efaa8b85026">
     <bounds
         x="72"
-        y="612"
+        y="456"
         width="120"
         height="55"/>
     <archimateElement

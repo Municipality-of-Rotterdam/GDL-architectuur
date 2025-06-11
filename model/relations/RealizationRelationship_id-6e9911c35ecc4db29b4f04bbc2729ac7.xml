@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitgevoerd door"
+    id="id-6e9911c35ecc4db29b4f04bbc2729ac7">
+  <source
+      xsi:type="archimate:Deliverable"
+      href="Deliverable_id-a2162338e2684029a350b107ab591635.xml#id-a2162338e2684029a350b107ab591635"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b5baa8db277d4507aa8a0791b716a26b.xml#id-b5baa8db277d4507aa8a0791b716a26b"/>
+</archimate:RealizationRelationship>
