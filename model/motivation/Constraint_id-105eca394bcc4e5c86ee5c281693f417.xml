@@ -1,0 +1,10 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Architectuur Federatief Datastelsel"
+    id="id-105eca394bcc4e5c86ee5c281693f417">
+  <properties
+      key="Source"
+      value="https://federatief.datastelsel.nl/kennisbank/"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>

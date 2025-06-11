@@ -486,4 +486,15 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-c124782618564f079b82ebc0e68c1266.xml#id-c124782618564f079b82ebc0e68c1266"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f9a4c2608abb4f8ea85bceef0845e3d5"
+      textAlignment="1"
+      content="https://www.noraonline.nl/wiki/GDI-Architectuur_(GA)">
+    <bounds
+        x="12"
+        y="12"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>

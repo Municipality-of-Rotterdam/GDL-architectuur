@@ -1,0 +1,10 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bleuprint for EU Dataspaces"
+    id="id-441eeb7e802849498c3326de0973af40">
+  <properties
+      key="Source"
+      value="https://dssc.eu/space/BVE2/1071251457/Data+Spaces+Blueprint+v2.0+-+Home"/>
+  <profiles
+      href="folder.xml#id-eff18ea7b5ff49058749b1f55f130ba7"/>
+</archimate:Constraint>
