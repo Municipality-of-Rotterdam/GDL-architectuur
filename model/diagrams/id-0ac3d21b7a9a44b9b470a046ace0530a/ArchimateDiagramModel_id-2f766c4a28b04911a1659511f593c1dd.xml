@@ -1310,4 +1310,15 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-66f33978328d4210983ea18b0ed040d3.xml#id-66f33978328d4210983ea18b0ed040d3"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-72840add43354a67a8a31628316ca6e1"
+      textAlignment="1"
+      content="20250612 JSt - Check op de relaties">
+    <bounds
+        x="-14"
+        y="192"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
