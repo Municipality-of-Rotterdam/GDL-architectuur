@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a26a118cc13145cabd2b733d1b505f4a"
       textAlignment="1"
-      content="Scope: &#xD;&#xA;Waar moet men aan denken bij het opzetten van een use case? Van organisatie tot aan implementatie. Het gaat hierbij om use cases voor het delen van data tussen private en publieke aanbieders een afnemers.&#xD;&#xA;&#xD;&#xA;Beschreven als hoe (de flow) en als wat.">
+      content="Scope: &#xD;&#xA;Waar moet men aan denken bij het opzetten van een use case? Van organisatie tot aan implementatie. Het gaat hierbij om use cases voor het delen van data tussen private en publieke aanbieders een afnemers.&#xD;&#xA;&#xD;&#xA;Beschreven als hoe (de flow, het proces) en als wat.">
     <bounds
         x="57"
         y="36"
@@ -172,10 +172,54 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-1406db0fa44b455f9b32e37d6aefaf20"
       textAlignment="1"
-      content="Rollen">
+      content="Rollen / stakeholders">
     <bounds
         x="57"
         y="552"
+        width="160"
+        height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-561e88f158964ec9901f1ea397ef01e8"
+      textAlignment="1"
+      content="Private partner">
+    <bounds
+        x="456"
+        y="552"
+        width="160"
+        height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ccc8d47d195d4dbb965c5b1df0a312fd"
+      textAlignment="1"
+      content="Publieke partner">
+    <bounds
+        x="264"
+        y="552"
+        width="160"
+        height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-7571f142d2344ba49e57daf803a20e6d"
+      textAlignment="1"
+      content="Standaarden">
+    <bounds
+        x="57"
+        y="768"
+        width="160"
+        height="45"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-dacc9b6b7c974af3b558ed587f924ed0"
+      textAlignment="1"
+      content="Referentie architectuur">
+    <bounds
+        x="264"
+        y="336"
         width="160"
         height="45"/>
   </children>
