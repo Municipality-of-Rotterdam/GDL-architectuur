@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GDL Metamodel Use Cases"
-    id="id-a052612b6f2d409a8e33569d9e158eff"/>
+    id="id-a052612b6f2d409a8e33569d9e158eff">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a26a118cc13145cabd2b733d1b505f4a"
+      textAlignment="1"
+      content="Scope: &#xD;&#xA;Waar moet men aan denken bij het opzetten van een use case? Van organisatie tot aan implementatie.">
+    <bounds
+        x="36"
+        y="48"
+        width="229"
+        height="121"/>
+  </children>
+</archimate:ArchimateDiagramModel>
