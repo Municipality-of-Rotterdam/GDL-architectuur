@@ -1,4 +1,5 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data-bij-de-bron"
-    id="id-0fd4a8353fdd48cb8f9807a61d98d1e7"/>
+    id="id-0fd4a8353fdd48cb8f9807a61d98d1e7"
+    documentation="Afkomstig van:&#xD;&#xA;&#xD;&#xA;https://grenzeloosdatalandschap.nl/kennis/van-architectuur-tot-realisatie-de-drie-pijlers-en-10-geboden-van-het-gdl-in-praktijk/&#xD;&#xA;&#xD;&#xA;2. Data-bij-de-bron &#xD;&#xA;Partijen blijven de baas over hun eigen data, beheren die zelf en stellen deze beschikbaar voor de samenwerking(en) waarin zij deelnemen (of zelfs aan iedereen die daarin geïnteresseerd is). Door data niet heen en weer te kopiëren, maar rechtstreeks te raadplegen bij de bron, wordt de actualiteit voor de gebruikers gemaximaliseerd. Bovendien behoudt de bronhouder zicht op het gebruik van de data."/>

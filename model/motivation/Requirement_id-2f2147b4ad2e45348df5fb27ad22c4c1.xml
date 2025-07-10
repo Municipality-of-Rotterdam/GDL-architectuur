@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veiligheid, authenticatie, verificatie (IAM)"
-    id="id-2f2147b4ad2e45348df5fb27ad22c4c1"/>
+    id="id-2f2147b4ad2e45348df5fb27ad22c4c1"
+    documentation="Afkomstig van&#xD;&#xA;&#xD;&#xA;https://grenzeloosdatalandschap.nl/kennis/van-architectuur-tot-realisatie-de-drie-pijlers-en-10-geboden-van-het-gdl-in-praktijk/&#xD;&#xA;&#xD;&#xA;9. Veiligheid, authenticatie, verificatie &#xD;&#xA;Er moeten goede veiligheidsmaatregelen worden getroffen. Dit omvat zowel organisatorische als technische aspecten, zoals het zorgen voor geautoriseerde toegang tot data, het voorkomen van onderschepping, en het garanderen van traceerbaarheid (auditeerbaarheid en logging)."/>

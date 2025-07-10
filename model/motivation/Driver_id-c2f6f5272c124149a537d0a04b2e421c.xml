@@ -1,4 +1,5 @@
 <archimate:Driver
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ruimte voor marktoplossingen"
-    id="id-c2f6f5272c124149a537d0a04b2e421c"/>
+    id="id-c2f6f5272c124149a537d0a04b2e421c"
+    documentation="Afkomstig van:&#xD;&#xA;&#xD;&#xA;https://grenzeloosdatalandschap.nl/kennis/van-architectuur-tot-realisatie-de-drie-pijlers-en-10-geboden-van-het-gdl-in-praktijk/&#xD;&#xA;&#xD;&#xA;6. Ruimte voor marktoplossingen &#xD;&#xA;Als data op uniforme wijze beschikbaar is (vanuit bronnen die vaak een eigen dialect spreken), kunnen marktpartijen slimme oplossingen bouwen die gebruik maken van deze data. Het gebruik van slimme (deel)oplossingen (‘best of breed’) wordt eenvoudiger omdat de data geüniformeerd is. De uniformiteit van de data wordt gegarandeerd door partijen te wijzen op standaardisatie instituten zoals Geonovum en DigiGO."/>

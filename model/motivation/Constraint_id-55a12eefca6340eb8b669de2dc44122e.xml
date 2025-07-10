@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Langs de as van use cases"
+    id="id-55a12eefca6340eb8b669de2dc44122e"
+    documentation="Afkomstig van &#xD;&#xA;&#xD;&#xA;https://grenzeloosdatalandschap.nl/kennis/van-architectuur-tot-realisatie-de-drie-pijlers-en-10-geboden-van-het-gdl-in-praktijk/&#xD;&#xA;&#xD;&#xA;4 Uitbreidbaar met andere use cases &#xD;&#xA;Het doel is dat zowel de wijze van het opzetten van samenwerking als de data-deling opschaling mogelijk maken (meer deelnemers, meer data-elementen) en uitschaling ondersteunen.  Het gebruik van dezelfde data in andere business cases, zoals netcongestie, kritieke infrastructuren, graafschade, etc is dan ook mogelijk.&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Geen vendor lock-in"
-    id="id-70691e39fd01410aac042464ef8a3948"/>
+    id="id-70691e39fd01410aac042464ef8a3948"
+    documentation="Afkomstig van&#xD;&#xA;&#xD;&#xA;https://grenzeloosdatalandschap.nl/kennis/van-architectuur-tot-realisatie-de-drie-pijlers-en-10-geboden-van-het-gdl-in-praktijk/&#xD;&#xA;&#xD;&#xA;7. Geen vendor lock-ins &#xD;&#xA;Door de data los te koppelen van de applicatie (bruikbaar te maken, ongeacht de applicatie waarmee je dat doet), kan elke deelnemer in een samenwerking autonoom keuzes maken voor applicaties, waardoor er geen vendor lock-in ontstaat."/>
