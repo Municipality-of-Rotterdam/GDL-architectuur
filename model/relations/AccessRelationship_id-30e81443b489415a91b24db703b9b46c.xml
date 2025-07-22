@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken mutaties (wachtrij)"
+    id="id-30e81443b489415a91b24db703b9b46c">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-7ec652a49c8c4721a2174634ff13e247.xml#id-7ec652a49c8c4721a2174634ff13e247"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-3c2728186d9a497fbd27069b0f5dba99.xml#id-3c2728186d9a497fbd27069b0f5dba99"/>
+</archimate:AccessRelationship>

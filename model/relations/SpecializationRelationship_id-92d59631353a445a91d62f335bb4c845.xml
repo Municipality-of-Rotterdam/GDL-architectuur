@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verbijzondert zich tot"
+    id="id-92d59631353a445a91d62f335bb4c845">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-1ede550c14ee4c87b689e608bb042b73.xml#id-1ede550c14ee4c87b689e608bb042b73"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-4be9dc67264649c4b14e7a6f447dcf43.xml#id-4be9dc67264649c4b14e7a6f447dcf43"/>
+</archimate:SpecializationRelationship>

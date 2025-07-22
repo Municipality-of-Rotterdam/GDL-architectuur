@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verbijzondert zich to (voor publiek - privaat)"
+    id="id-71217c5eb5e34e9d8647d0468d90f8d6">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_id-1ede550c14ee4c87b689e608bb042b73.xml#id-1ede550c14ee4c87b689e608bb042b73"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-691d449cb6e9445e9a404390b6311798.xml#id-691d449cb6e9445e9a404390b6311798"/>
+</archimate:SpecializationRelationship>
