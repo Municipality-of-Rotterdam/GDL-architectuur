@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GDL Principes"
+    name="GDL 1.0 Principes, Tien geboden"
     id="id-1528a26fee6a487ead6bfc5f87fa1baf"
+    documentation="Deze view beschrijft de omzetting van de GDL 1.0 referentiearchitectuur naar Archimate objecten. "
     connectionRouterType="2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
