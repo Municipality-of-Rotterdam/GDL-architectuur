@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Iteratief"
+    id="id-38d1dd0ff48b4055a903cb92ae602789">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-8b8bde5029cc4024b0f20608ac578a3a.xml#id-8b8bde5029cc4024b0f20608ac578a3a"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-26a87ce5573e47c8b2aad7808826c91d.xml#id-26a87ce5573e47c8b2aad7808826c91d"/>
+</archimate:InfluenceRelationship>

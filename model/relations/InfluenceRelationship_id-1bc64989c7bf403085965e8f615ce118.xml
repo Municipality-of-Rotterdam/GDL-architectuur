@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lerend "
+    id="id-1bc64989c7bf403085965e8f615ce118">
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-8b8bde5029cc4024b0f20608ac578a3a.xml#id-8b8bde5029cc4024b0f20608ac578a3a"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-0ceeaf9915404d768c124277a720db79.xml#id-0ceeaf9915404d768c124277a720db79"/>
+</archimate:InfluenceRelationship>
