@@ -573,37 +573,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0c7c42dc3da44e2a93492b7e5271fa09"
-      font="1|Segoe UI|13.2|0|WINDOWS|1|-22|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-      fillColor="#ffffff"
-      textPosition="1">
-    <features
-        name="iconVisible"
-        value="2"/>
-    <features
-        name="labelExpression"
-        value="Afleidings-&#xD;&#xA;regel"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3eaa8ad218424fb9b93131909486a047"
-        lineColor="#c0c0c0"
-        source="id-0c7c42dc3da44e2a93492b7e5271fa09"
-        target="id-79a715798812467ea38d736953df4495">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-e0701a15a3a14b3fa1a8716b1d1a562d.xml#id-e0701a15a3a14b3fa1a8716b1d1a562d"/>
-    </sourceConnections>
-    <bounds
-        x="204"
-        y="360"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-8a651c23ef7244bea5a9e3a0f7270698.xml#id-8a651c23ef7244bea5a9e3a0f7270698"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8f0cc5610d244446bb68e6f1a7f25daa"
       font="1|Segoe UI|13.2|0|WINDOWS|1|-22|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#ffffff"
@@ -839,5 +808,27 @@
         y="24"
         width="277"
         height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-efd07275fdd04a1786db514187013960">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3eaa8ad218424fb9b93131909486a047"
+        lineColor="#c0c0c0"
+        source="id-efd07275fdd04a1786db514187013960"
+        target="id-79a715798812467ea38d736953df4495">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-e0701a15a3a14b3fa1a8716b1d1a562d.xml#id-e0701a15a3a14b3fa1a8716b1d1a562d"/>
+    </sourceConnections>
+    <bounds
+        x="199"
+        y="358"
+        width="130"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-07ba3fe2001441dabe609842b61aedff.xml#id-07ba3fe2001441dabe609842b61aedff"/>
   </children>
 </archimate:ArchimateDiagramModel>
