@@ -6,22 +6,6 @@
     documentation="https://minbzk.github.io/gdi-gegevensuitwisseling/2.0.3/?view=id-e973770cb46b4b64b95aedc6e4d6e1f4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-97ad31ce4bdc4a36a35b5fa323ca2a15"
-      textPosition="1">
-    <features
-        name="iconVisible"
-        value="2"/>
-    <bounds
-        x="300"
-        y="46"
-        width="121"
-        height="87"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-ea737b5529d942939bdaef1525e6bea2.xml#id-ea737b5529d942939bdaef1525e6bea2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-560fd143faef4a9284054a47ca25ae3f"
       textPosition="1">
     <features
@@ -83,5 +67,17 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-9362e0d20734429aa2a07f6beadb9277.xml#id-9362e0d20734429aa2a07f6beadb9277"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-adf38cca356944828d2f8450b9ac0ad6">
+    <bounds
+        x="303"
+        y="60"
+        width="130"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-009e5d55c07842d2845cf8f41ea6713f.xml#id-009e5d55c07842d2845cf8f41ea6713f"/>
   </children>
 </archimate:ArchimateDiagramModel>
