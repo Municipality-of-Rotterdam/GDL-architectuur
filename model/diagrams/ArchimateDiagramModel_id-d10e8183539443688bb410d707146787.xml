@@ -345,7 +345,7 @@
         xsi:type="archimate:DiagramModelNote"
         id="id-fded047689aa4c0c99ac6becea648adf"
         textAlignment="1"
-        content="FASE 4&#xD;&#xA;Beheer en startaanpak maatschappelijke opgave&#xD;&#xA;&#xD;&#xA;- Project onderbrengen in community.&#xD;&#xA;">
+        content="FASE 4&#xD;&#xA;Beheer en startaanpak maatschappelijke opgave&#xD;&#xA;&#xD;&#xA;- Project onderbrengen in community.&#xD;&#xA;&#xD;&#xA;NB: &#xD;&#xA;Hier heeft het GDL geen rol.&#xD;&#xA;Zodra het project in deze fase komt, is GDL succesvol geweest.&#xD;&#xA;">
       <bounds
           x="891"
           y="48"
