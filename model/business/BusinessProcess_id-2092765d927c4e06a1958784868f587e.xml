@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren stakeholderanalyse"
-    id="id-2092765d927c4e06a1958784868f587e"/>
+    id="id-2092765d927c4e06a1958784868f587e"
+    documentation="Uitvoeren van een stakeholderanalyse."/>

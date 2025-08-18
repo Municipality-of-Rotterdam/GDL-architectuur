@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adviseren stuurgroep"
-    id="id-b7c0d3c752824bfdae16d143006b4e75"/>
+    id="id-b7c0d3c752824bfdae16d143006b4e75"
+    documentation="GDL geeft gevraagd en ongevraagd advies aan projectleider en stuurgroep.&#xD;&#xA;GDL adviseert over de interoperabiliteit van data tussen de verschillende partijen, op basis van de GDL-referentiearchitectuur"/>
