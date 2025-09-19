@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mapping Tien Geboden naar GDL 2.0 Principes  Presentatie vorm"
     id="id-71cdadc9babd496e9e6511f165c8d446"
-    documentation="Deze view beschrijft de relaties tussen de Tien Geboeden en de Design Principes van de Europese Data Spaces ">
+    documentation="Deze view beschrijft de relaties tussen de Tien Geboden en de Design Principes van de Europese Data Spaces. Er is een Word document met motivatie van de relaties opgesteld. Zie&#xD;&#xA;&#xD;&#xA;https://pzh.sharepoint.com/:w:/r/sites/teamgrenzeloosdatalandschap/Gedeelde%20documenten/General/Architectuur/GDL%20Referentie%20Architectuur%202.0/Mapping%20Tien%20Geboden%20GDL%202.0%20Principes.docx?d=wdb2c8b927dea4c06b1f793fafba18eaa&amp;csf=1&amp;web=1&amp;e=3ODaVr">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-df40571dedb34732a83faf87934bf201"
@@ -32,8 +32,8 @@
       textAlignment="1"
       content="Gebod 10">
     <bounds
-        x="250"
-        y="1452"
+        x="260"
+        y="1728"
         width="263"
         height="80"/>
   </children>
@@ -43,8 +43,8 @@
       textAlignment="1"
       content="Gebod 8">
     <bounds
-        x="257"
-        y="1141"
+        x="250"
+        y="1224"
         width="263"
         height="80"/>
   </children>
@@ -54,8 +54,8 @@
       textAlignment="1"
       content="Gebod 9">
     <bounds
-        x="257"
-        y="1284"
+        x="260"
+        y="1512"
         width="263"
         height="80"/>
   </children>
@@ -191,8 +191,8 @@
         name="labelExpression"
         value="DP09- Transparantie"/>
     <bounds
-        x="1005"
-        y="1260"
+        x="1018"
+        y="1488"
         width="241"
         height="55"/>
     <archimateElement
@@ -207,8 +207,8 @@
         name="labelExpression"
         value="DP10 - Vaststellen van vertrouwen en security in data spaces"/>
     <bounds
-        x="1005"
-        y="1332"
+        x="1018"
+        y="1560"
         width="241"
         height="55"/>
     <archimateElement
@@ -243,9 +243,18 @@
           xsi:type="archimate:InfluenceRelationship"
           href="InfluenceRelationship_id-c6e9d8211a174978ad91c203e45195b0.xml#id-c6e9d8211a174978ad91c203e45195b0"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-617a885fe89f45dba5ddf02d4a520ebf"
+        source="id-68e528bd89ad4997848fa42ed6227a3e"
+        target="id-6aabb1478fff4531bc47509c51acae23">
+      <archimateRelationship
+          xsi:type="archimate:InfluenceRelationship"
+          href="InfluenceRelationship_id-4593c64b1e40447fa9e229376047b7ec.xml#id-4593c64b1e40447fa9e229376047b7ec"/>
+    </sourceConnections>
     <bounds
-        x="329"
-        y="1153"
+        x="322"
+        y="1236"
         width="120"
         height="55"/>
     <archimateElement
@@ -346,8 +355,8 @@
           href="InfluenceRelationship_id-6b81adbd65434dda8c4ae4e3b2a2d160.xml#id-6b81adbd65434dda8c4ae4e3b2a2d160"/>
     </sourceConnections>
     <bounds
-        x="329"
-        y="1296"
+        x="342"
+        y="1524"
         width="120"
         height="55"/>
     <archimateElement
@@ -516,8 +525,8 @@
           href="InfluenceRelationship_id-3d4642ceea254cc88f5c2c159ae81405.xml#id-3d4642ceea254cc88f5c2c159ae81405"/>
     </sourceConnections>
     <bounds
-        x="306"
-        y="1464"
+        x="316"
+        y="1740"
         width="172"
         height="55"/>
     <archimateElement
@@ -564,8 +573,8 @@
         name="labelExpression"
         value="DP01 - Hergebruik van data"/>
     <bounds
-        x="998"
-        y="1446"
+        x="1008"
+        y="1722"
         width="241"
         height="55"/>
     <archimateElement
@@ -628,8 +637,8 @@
         name="labelExpression"
         value="DP04 - Stel een passend contractueel kader op"/>
     <bounds
-        x="998"
-        y="1518"
+        x="1008"
+        y="1794"
         width="241"
         height="55"/>
     <archimateElement
@@ -660,8 +669,8 @@
         name="labelExpression"
         value="DP05 - Zorg voor interoperabiliteit in data spaces"/>
     <bounds
-        x="1005"
-        y="1166"
+        x="998"
+        y="1249"
         width="240"
         height="55"/>
     <archimateElement
@@ -679,6 +688,22 @@
         x="993"
         y="92"
         width="246"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_id-2ac58e1910f44a0791f7caa43b2525d2.xml#id-2ac58e1910f44a0791f7caa43b2525d2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6aabb1478fff4531bc47509c51acae23"
+      targetConnections="id-617a885fe89f45dba5ddf02d4a520ebf">
+    <features
+        name="labelExpression"
+        value="DP11 - Verzekeren van deelnemers rechten in data soevereiniteit"/>
+    <bounds
+        x="1004"
+        y="1332"
+        width="235"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Principle"
