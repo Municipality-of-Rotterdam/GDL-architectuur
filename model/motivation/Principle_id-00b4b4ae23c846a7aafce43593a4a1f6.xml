@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data bij de Bron (FDS)"
+    id="id-00b4b4ae23c846a7aafce43593a4a1f6"
+    documentation="Binnen FDS betekent werken volgens data bij de bron dat de bron rechtstreeks (via een API) wordt bevraagd op de gegevens die nodig zijn voor de uit te voeren taken. Via de API ontvangt de afnemer, het antwoord op de gestelde vraag"/>

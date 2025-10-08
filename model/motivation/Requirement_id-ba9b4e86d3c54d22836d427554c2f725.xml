@@ -5,5 +5,5 @@
     documentation="W3C Verifiable Credentials is a specification developed by the World Wide Web Consortium (W3C) to enable the creation, sharing, and verification of digital credentials in a secure and privacy-respecting manner.">
   <properties
       key="Source"
-      value="https://www.w3.org/TR/vc-data-model-2.0/ "/>
+      value="https://www.w3.org/TR/vc-overview/"/>
 </archimate:Requirement>
