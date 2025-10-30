@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GDL Procesmodel Realisatie Stelsel"
+    id="id-3e54046850a14a09af5c243bad211cec">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0932d3775bd341ce8d072a490729d26a"
+      textAlignment="1"
+      content="Test">
+    <bounds
+        x="63"
+        y="75"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
