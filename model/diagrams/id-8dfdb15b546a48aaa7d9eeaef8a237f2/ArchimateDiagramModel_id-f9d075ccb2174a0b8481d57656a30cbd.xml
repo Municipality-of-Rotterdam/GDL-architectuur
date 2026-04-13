@@ -50,7 +50,7 @@
       targetConnections="id-846aa5b0f9264e3e9a93ec0a7047530b">
     <features
         name="labelExpression"
-        value="Data Space Aanbod"/>
+        value="Datastelsel Aanbod"/>
     <bounds
         x="36"
         y="420"
@@ -66,7 +66,7 @@
       targetConnections="id-135b472ae3524f649108583f58346437">
     <features
         name="labelExpression"
-        value="Intermediairs &amp; Dienstverleners"/>
+        value="Intermediairs en dienstverleners"/>
     <bounds
         x="14"
         y="264"
@@ -82,7 +82,7 @@
       targetConnections="id-710475f11cc34da0811764e5422915ef">
     <features
         name="labelExpression"
-        value="Organisatievorm &amp; governance"/>
+        value="Besturing"/>
     <bounds
         x="516"
         y="408"
@@ -98,11 +98,11 @@
       targetConnections="id-81b51836e48c4507a45edc11a139d87b">
     <features
         name="labelExpression"
-        value="Deelname Management"/>
+        value="Deelnamebeheer"/>
     <bounds
         x="672"
         y="408"
-        width="120"
+        width="133"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
@@ -114,7 +114,7 @@
       targetConnections="id-7dc802ab1c31427cafa6072cd249920e">
     <features
         name="labelExpression"
-        value="Naleving regelgeving"/>
+        value="Naleving van regelgeving"/>
     <bounds
         x="864"
         y="408"
@@ -130,7 +130,7 @@
       targetConnections="id-e7195eee8fbf4e088fbf82d70adedd5e">
     <features
         name="labelExpression"
-        value="Contracten Raamwerk"/>
+        value="Contractueel Raamwerk"/>
     <bounds
         x="1140"
         y="252"
